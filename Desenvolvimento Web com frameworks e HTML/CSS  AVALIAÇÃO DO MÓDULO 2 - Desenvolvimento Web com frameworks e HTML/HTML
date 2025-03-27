@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafeteria do Bairro</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <h1>Cafeteria do Bairro</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Bem-vindo à nossa cafeteria!</h2>
+            <p>Desfrute de nossos deliciosos cafés e comidas em um ambiente acolhedor.</p>
+            <img src="https://via.placeholder.com/400x200" alt="Imagem ilustrativa">
+            <button id="botao">Fazer Pedido</button>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
