@@ -1,0 +1,4 @@
+// Adicionar evento de clique ao botão
+document.getElementById("botao").addEventListener("click", function() {
+    alert("Pedido realizado com sucesso!");
+});
